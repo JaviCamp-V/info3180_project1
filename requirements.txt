@@ -1,0 +1,26 @@
+# ----------------------
+# Flask
+# ----------------------
+flask
+Flask-WTF
+Flask-SQLAlchemy
+Flask-Migrate
+Flask-Script
+Flask-Login
+Werkzeug
+psycopg2
+
+# ----------------------
+# Production Server
+# ----------------------
+gunicorn
+
+alembic
+Click
+dnspython
+idna
+itsdangerous
+Mako
+MarkupSafe
+python-editor
+six
