@@ -1,6 +1,7 @@
 import os
 ####
 class Config(object):
+    ###
     """Base Config Object"""
     DEBUG = False
     SECRET_KEY ='Som3$ec5etK*y'
