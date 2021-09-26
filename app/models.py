@@ -19,7 +19,7 @@ class Properties(db.Model):
     def __init__(self, title, description, num_of_bedrooms, num_of_bathrooms,price,ptype,location,photo):
         self.title = title
         self.description = description
-        self.num_of_bedrooms = num_of_bathrooms
+        self.num_of_bedrooms = num_of_bedrooms
         self.num_of_bathrooms = num_of_bathrooms
         self.price=price
         self.ptype=ptype
